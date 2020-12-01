@@ -6,7 +6,7 @@
 #### 3. DOCUMENTACION DE LA API
 #### 4. RECURSOS UTILIZADOS 
 
-![fotodeportada](C:\Users\Leticia\Desktop\Ironhack-repos\W6-api-sentiment-project\images\donald-trump-twitter.jpg)
+![fotodeportada](https://github.com/leticia-sobrino/W6-api-sentiment-project/blob/main/images/donald-trump-twitter.jpg)
 
 
 #### 1. PROYECTO
