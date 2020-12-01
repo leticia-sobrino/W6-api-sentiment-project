@@ -36,7 +36,7 @@ El proyecto está estructurado de la siguiente manera para su mejor comprensión
     - notebooks: en esta carpeta se proporcionan 3 notebooks explicativos y sencillos en dónde se encuentra de una manera más visual, paso a paso, el desarrollo del proyecto.
       - 1.Tweets dataset: este notebook encontrarás la importación del dataset de kaggle, la limpieza y el análisis mediante pandas, la importación del dataset final a Mongo y la conexión de python con Mongo para poder realizar las 4 diferentes querys necesarias para crear nuestros endpoints.
       - 2.Análisis de polaridad: en este notebook preparamos como va a ser la función que tendremos que utilizar en el archivo getdata.py para poder conseguir la media de positivismo anual de nuestros tweets.
-      - 3. Llamadas a la API. Este notebook es el noebook final del proyecto en dónde se muestra, mediante llamadas con los cuatro diferentes enpoints creados, que la API funciona correctamente. 
+      - 3.Llamadas a la API. Este notebook es el noebook final del proyecto en dónde se muestra, mediante llamadas con los cuatro diferentes enpoints creados, que la API funciona correctamente. 
   
   - Archivos:
     - main.py: Este es el archivo principal de todo el poyecto en dónde podrás ver todas las funciones importadas de las demás carpetas para que todo nuestro trabajo cobre vida. Este archivo es el que se ejecuta finalmente para que nuestra API funcione correctamente. 
